@@ -1,0 +1,6 @@
+{
+  "name": "Fastpay.com - অনলাইন আর্নিং ও পেমেন্ট প্ল্যাটফর্ম",
+  "description": "Fastpay.com অফিসিয়াল প্ল্যাটফর্ম - প্রতিদিনের টাস্ক, ইনস্ট্যান্ট ডিপোজিট ও নিরাপদ উইথড্র সিস্টেম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
